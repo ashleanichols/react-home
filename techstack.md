@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 ashleanichols/react-home is built on the following main stack:
+
 - [React](https://reactjs.org/) – Javascript UI Libraries
 - [MongoDB](http://www.mongodb.com/) – Databases
 - [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
@@ -14,11 +15,13 @@ ashleanichols/react-home is built on the following main stack:
 - [Cypress](https://www.cypress.io/) – Javascript Testing Framework
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 ashleanichols/react-home is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1030/leaf-360x360.png' alt='MongoDB'/> [MongoDB](http://www.mongodb.com/) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
@@ -31,14 +34,15 @@ ashleanichols/react-home is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/9231/default_66c5c1a197dcd0232e41e4ab6299d119b4e165b3.png' alt='Cypress'/> [Cypress](https://www.cypress.io/) – Javascript Testing Framework
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ashleanichols/react-home](https://github.com/ashleanichols/react-home)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|28<br/>Tools used|11/09/23 <br/>Report generated|
+|29<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -180,9 +184,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (14)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (15)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (14)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (15)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -200,8 +204,9 @@ Full tech stack [here](/techstack.md)
 |[react-router-dom](https://www.npmjs.com/react-router-dom)|v5.2.0|08/08/20|Saphie |MIT|N/A|
 |[react-scripts](https://www.npmjs.com/react-scripts)|v3.4.1|08/08/20|Saphie |MIT|N/A|
 |[react-test-renderer](https://www.npmjs.com/react-test-renderer)|v16.13.1|08/17/20|Saphie |MIT|N/A|
+|[yup](https://www.npmjs.com/yup)|v0.29.1|06/30/20|Saphie |MIT|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
